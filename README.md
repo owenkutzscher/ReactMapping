@@ -6,8 +6,11 @@ This takes in data from made up music videos and tests it against certain crtier
 
 
 ## To run this project
+
 navigate to the ReactMapping folder
+
 run: npm install
+
 and then run: npm start
 
 when running correctly you will see the data for 3 music videos displayed, all related to Pitbull.
@@ -22,7 +25,7 @@ when running correctly you will see the data for 3 music videos displayed, all r
 
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
