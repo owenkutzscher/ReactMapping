@@ -1,4 +1,26 @@
-# Getting Started with Create React App
+# ReactMapping
+
+In this React project I use Java Script mapping with React components to determine if a video is a music video. I combine concepts from many youtube tutorials to improve my knowlage of React. This is a prototype project for my larger project here: (coming soon). 
+
+This takes in data from made up music videos and tests it against certain crtieria, then displays the videos information with a message saying if it is the real music video or a fake music video.
+
+
+## To run this project
+navigate to the ReactMapping folder
+run: npm install
+and then run: npm start
+
+when running correctly you will see the data for 3 music videos displayed, all related to Pitbull.
+
+
+
+
+
+
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
