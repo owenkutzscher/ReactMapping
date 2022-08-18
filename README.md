@@ -2,7 +2,7 @@
 
 In this React project I use Java Script mapping with React components to determine if a video is a music video. I combine concepts from many youtube tutorials to improve my knowlage of React. This is a prototype project for my larger project here: (coming soon). 
 
-This takes in data from made up music videos and tests it against certain crtieria, then displays the videos information with a message saying if it is the real music video or a fake music video.
+This takes in data from made up music videos and tests it against certain crtieria, then displays the videos information with a message saying if it is the real music video or a fake music video. (For instance many music videos have a title that to a computer would seem real, however the video is 10 hours long. Therefore this video is not the official video uploaded by the artist.)
 
 
 ## To run this project
